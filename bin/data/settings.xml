@@ -1,0 +1,6 @@
+<group>
+	<Threshhold>127</Threshhold>
+	<Min_Radius>10</Min_Radius>
+	<Max_Radius>200</Max_Radius>
+<group/>
+</group>
